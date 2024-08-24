@@ -1,0 +1,24 @@
+h2{
+    margin-top: 20px;
+     margin-bottom: 20px; 
+} 
+
+input{
+    margin-top : 50px;
+    text-align: center;
+    text-decoration-thickness: 20;
+}
+
+#submit_button
+{
+	margin-top: 90px; 
+	 
+}
+
+span{
+    font-size: 20px;
+font-family: sans-serif;
+padding: 22px;
+max-width: 60%;
+display: inline-block;
+}
